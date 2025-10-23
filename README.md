@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+A new Flutter project. Membuat Navbar dan Multipage sesuai dengan kreativitas masing-masing. Untuk  hasil tampilan main.dart setelah di debugging ada pada  folder screenshoot tampilan aplikasi
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
